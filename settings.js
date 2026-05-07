@@ -7,5 +7,5 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID === undefined ? '4948772d0e14a925' : process.env.SESSION_ID,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SESSION_NAME: process.env.PORT === undefined ? "asitha" : process.env.SESSION_NAME,
+Sasindu-md: process.env.PORT === undefined ? "asitha" : process.env.Sasindu-md,
 };
